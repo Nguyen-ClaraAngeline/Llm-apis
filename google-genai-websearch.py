@@ -31,7 +31,7 @@ STREAM_ON = False
 # Gemini Model
 #MODEL = "gemini-3-flash-preview"
 #MODEL = "gemini-3.1-flash-lite-preview"
-MODEL = "gemini-2.5-flash" # This one supports web search grounding
+MODEL = "gemini-3.1-flash-lite-preview"
 
 # Prompt
 PROMPT = "What is the weather in Paris right now?" # Testing grounding with web search
